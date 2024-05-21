@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
+:root {
+  --background-color: #1A1A1A;
+  --text-color: #D9D9D9;
+  --theme-color: #F14A90;
+
+  --main-font: 'Cormorant Garamond', serif;
+  --secondary-font: 'Montserrat', sans-serif;
+  --logo-font: 'Quicksand', sans-serif;
+}
+
+.logo {
+  font-family: var(--logo-font);
+}
