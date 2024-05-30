@@ -33,17 +33,13 @@ const Login = () => {
       console.error(error);
     }
   }
-
-  //   auth && setName(auth?.currentUser?.name);
   console.log(auth?.currentUser?.email);
   return (
-    <div>
-      {(name === "") ? (
+      (name === "") ? (
         <button onClick={signInWithGoogle}>Sign in with Google</button>
       ) : (
         <button onClick={logOut}>{name}</button>
-      )}
-    </div>
+      )
   );
 };
 
