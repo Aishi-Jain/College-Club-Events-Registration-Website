@@ -7,6 +7,7 @@ import Events from './pages/Events';
 import AboutUs from './pages/AboutUs';
 import EventDetail from './pages/EventDetail';
 import './App.css';
+import EventForm from './pages/AddEvent';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/events" element={<Events />} />
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/events/:eventId" element={<EventDetail />} />
+          <Route path="/addEvent" element={<EventForm />} />
         </Routes>
         <Footer />
       </div>

@@ -28,6 +28,6 @@ const FirebaseImage = ({ imagePath, alt }) => {
     );
   }
 
-  return imageURL ? <img id={imagePath} src={imageURL} alt={alt} /> : <div>Loading...</div>;
+  return imageURL ? <img id={imagePath} src={imageURL} alt={alt} /> : <img id={imagePath} className="loadingImg" src="" alt={alt} />;
 };
 export default FirebaseImage;
