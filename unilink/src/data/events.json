@@ -1,0 +1,40 @@
+[
+  {
+    "eventId": "2024-05-09-Aahvan",
+    "name": "Aahvan",
+    "number": 99499939,
+    "email": "email@gmail.com",
+    "startDate": "2024-05-09",
+    "startTime": "10:30",
+    "themeColor": "#a30028",
+    "description": "First-year AIML and IT students at MRCE, to an enchanting evening where tech meets magic! 🎉 Aahvan is your grand invitation to bond with your peers over fun games, mesmerizing performances, and delicious treats. Dive into a night filled with laughter, friendship, and unforgettable memories as we celebrate the beginning of your amazing journey together! 🌟🚀💻",
+    "duration": "6 hr 30 mins",
+    "imageURL": "/resources/events/2024-05-09-Aahvan-event-image.webp",
+    "youtubeVideoURL": "https://www.youtube.com/embed/NHKhesoyLuw?si=9XcsyI5Ibo7SEPVi",
+    "location": "Seminar Hall, MRCE, Maisammaguda, Hyderabad, Telangana 500043",
+    "gallery": [
+      "Aahvan-event-image.jpg",
+      "Aahvan-event-image (1).jpg",
+      "Aahvan-event-image (2).jpg",
+      "Aahvan-event-image (3).jpg",
+      "Aahvan-event-image (4).jpg"
+    ],
+    "locationURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15215.58263950409!2d78.4571311!3d17.5601537!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb8f994c910c13%3A0xdb09d5624f3afe41!2sMrce%20Seminar%20Hall!5e0!3m2!1sen!2sin!4v1717428402054!5m2!1sen!2sin"
+  },
+  {
+    "eventId": "2024-06-08-CSE-Freshers",
+    "description": "First-year CSE students, to an enchanting evening where tech meets magic! 🎉 Aahvan is your grand invitation to bond with your peers over fun games, mesmerizing performances, and delicious treats. Dive into a night filled with laughter, friendship, and unforgettable memories as we celebrate the beginning of your amazing journey together! 🌟🚀💻",
+    "name": "CSE Freshers",
+    "number": 99499939,
+    "email": "email@gmail.com",
+    "startDate": "2024-06-08",
+    "startTime": "10:30",
+    "themeColor": "#00a592",
+    "duration": "5 hr 30 mins",
+    "imageURL": "/resources/events/2024-06-08-CSE-Freshers-event-image.jpg",
+    "instagramVideoURL": "https://www.instagram.com/p/C6veE6oJN64/",
+    "location": "Central Library, MRCE, Maisammaguda, Hyderabad, Telangana 500043",
+    "gallery": [],
+    "locationURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d411.8101177015444!2d78.45718386219907!3d17.560472188639142!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb8f19f38af8d9%3A0x65be2e53dc5f6c6e!2sMrce%20Central%20Library!5e0!3m2!1sen!2sin!4v1717428637445!5m2!1sen!2sin"
+  }
+]

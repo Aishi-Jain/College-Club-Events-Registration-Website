@@ -1,0 +1,6 @@
+[
+    { "imageURL": "/resources/images/shows.jpg", "name": "Shows" },
+    { "imageURL": "/resources/images/tickets.jpg", "name": "Tickets" },
+    { "imageURL": "/resources/images/calendar.jpg", "name": "Calendar" },
+    { "imageURL": "/resources/images/about.jpg", "name": "About" }
+]
